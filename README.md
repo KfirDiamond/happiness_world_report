@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 Launch the Jupyter notebook for interactive analysis:
 ```bash
-jupyter notebook notebooks/8_Happiness.ipynb
+jupyter notebook notebooks/Happiness.ipynb
 ```
 
 ### Using the Analysis Modules
