@@ -15,7 +15,7 @@ happiness_world_report/
 ├── data/                          # Data directory
 │   └── World Happiness Report.csv # Raw happiness data (2005-2022)
 ├── notebooks/                     # Jupyter notebooks for analysis
-│   └── 8_Happiness.ipynb         # Main analysis notebook
+│   └── Happiness.ipynb         # Main analysis notebook
 ├── src/                           # Source code modules
 │   ├── __init__.py
 │   ├── data_loader.py             # Data loading and preprocessing
